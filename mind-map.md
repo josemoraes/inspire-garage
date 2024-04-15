@@ -1,7 +1,6 @@
 ```mermaid
 mindmap
   root((Introdução ao <br/> mundo da Programação))
-    Quem sou Eu?
     O que é programação?
         Sequência de instruções
             Programas
@@ -46,14 +45,22 @@ mindmap
             C#
             Java
             PHP
+    Backend? Frontend?
+        Programador frontend desenvolve sistemas com interfaces visuais para interação do usuário
+        Programador backend desenvolve  sistemas com interfaces em protocolos de texto, ou binário para a interação com outros sistemas, o que pode incluir também outro sistema frontend
+        Nem todo ecossistema possui essa separação óbvia e há sistemas que possuem uma integração das interfaces visuais e dos serviços internos com maior acoplamento
+    E o fullstack?
+        É o profissional que atua nas duas frentes, backend e frontend
+    Alguns exemplos
+        Exemplo 01: https://github.com/josemoraes/proxy-with-behavior
+        Exemplo 02: https://github.com/josemoraes/fire-doom 
+ 
         
-
-
-    
-
 ```
 
 ## Refs
 
 * [CS50 - Introdução à ciência da computação](https://www.youtube.com/watch?v=SYZkrqW8oJc&list=PLRqGANMTmslTVwZA-H7aDiiNACau3yhVH)
 * [Como mentir com estatística](https://www.amazon.com.br/Como-Mentir-Estat%C3%ADstica-Darrell-Huff/dp/858057952X)
+* [Exemplo 01](https://github.com/josemoraes/proxy-with-behavior)
+* [Exemplo 02](https://github.com/josemoraes/fire-doom)
